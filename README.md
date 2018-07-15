@@ -1,7 +1,7 @@
 # student_poisson_mixture
-----------------------------------
 
-The code is released for the paper [Understanding Student Procrastination vis Mixture Models](), EDM 2018
+The code is released for the paper [Understanding Student Procrastination vis Mixture Models](), 
+Educational Data Mining 2018.
 
 Jihyun Park (`jihyunp@ics.uci.edu`)<br>
 July 2018
@@ -26,7 +26,7 @@ A quick tutorial of using the code.
 ## Code
 - `pmm.py`:
    Code for fitting Poisson mixture model given a count matrix.
-   The file has two classes--`PoissonMixture` for the model and `PoisMixResult` for 
+   The file has two classes--<br>`PoissonMixture` for the model and `PoisMixResult` for 
    storing and plotting the result.  
 - `utils.py`:
    Has helper functions for calculating log probabilities.
